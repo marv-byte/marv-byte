@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hello, my name is Marvin 👋
+
+## About me
+
+I'm a hobby developer who loves creating small programs.
+
+## Tech Stack
+* **Language:** Python
+* **Web Basics:** HTML
+* **Tools:** VS Code
 
 <!--
 **marv-byte/marv-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
